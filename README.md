@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jamesamodeo
 - 👀 I’m interested in experimental game development
-- 🌱 I’m currently learning OpenGL, Vulkan, and assorted creative skills.
+- 🌱 I’m currently learning OpenGL, Vulkan, and a messy bag of creative skills.
 - 💞️ I’m looking to collaborate on innovative game dev projects!
 - 📫 More about me and my contact info at my website - amodeo.dev
